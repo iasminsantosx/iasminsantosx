@@ -9,7 +9,7 @@ Hi, my name is Iasmin Santos Lucena and I'm from Brasil. I am a student of Compu
 - 🔧&nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=for-the-badge&logo=appveyor) ![Intellij](https://img.shields.io/badge/-Intellij-yellow?style=for-the-badge&logo=appveyor)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iasminsantosx&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iasminsantosx&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iasminsantosx&layout=compact&langs_count=8&theme=dracula)
 
 **Reach me out** 👇🏻 <br>
