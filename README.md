@@ -1,5 +1,5 @@
 # Hey, I'm Iasmin! 👩🏻‍🦰
-Hi, my name is Iasmin Santos Lucena and I'm from Brasil. I have bachelors degree in Computer Engineering. 👩🏻‍💻
+Hi, my name is Iasmin Santos Lucena and I'm from Brasil. I have bachelors degree in Computer Engineering from IFPB-CG. 👩🏻‍💻
 
 I'm a full stack developer who spends time studying data science !
 
