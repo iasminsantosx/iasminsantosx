@@ -1,7 +1,7 @@
 # Hey, I'm Iasmin! 👩🏻‍🦰
 Hi, my name is Iasmin Santos Lucena and I'm from Brasil. I have bachelors degree in Computer Engineering from IFPB-CG. 👩🏻‍💻
 
-I'm a full stack developer who spends time studying data science !
+I'm a full stack developer who spends time studying data science!
 
 ## Technologies & Tools
 - 💻    &nbsp;			 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
